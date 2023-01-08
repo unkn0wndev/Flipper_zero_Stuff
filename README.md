@@ -1,7 +1,7 @@
 <hr>
 
 <a href="https://github.com/unkn0wndev/Flipper_zero_Stuff">
-  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Flipper Zero Stuff" title="Flipper Zero Stuff">
+  <img src="https://github.com/unkn0wndev/Flipper_zero_Stuff/blob/main/flipper_zero_stuff.png" align="center" alt="Flipper Zero Stuff" title="Flipper Zero Stuff">
 </a>
 
 <hr>

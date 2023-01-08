@@ -13,8 +13,8 @@
 <table align="center"><tr>
   <td>
     <h3 align="center">
-    👋 New to Flipper Zero? Add me on Discord<br>
-    Check my discord <a href="https://discord.gg/ksfder9R">HERE</a>❗
+    👋 New to Flipper Zero? Join our server!<br>
+    Join Discord server <a href="https://discord.gg/ksfder9R">HERE</a>❗
     </h3>
   </td>
   <td>

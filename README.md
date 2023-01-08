@@ -1,13 +1,13 @@
 <hr>
 
-<a href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
+<a href="https://github.com/unkn0wndev/Flipper_zero_Stuff">
+  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Flipper Zero Stuff" title="Flipper Zero Stuff">
 </a>
 
 <hr>
 
 <h3 align="center">
-  A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
+  Multiple resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
   <a href="#">
     <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
     <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>

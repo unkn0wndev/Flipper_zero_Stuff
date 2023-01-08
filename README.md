@@ -13,8 +13,8 @@
 <table align="center"><tr>
   <td>
     <h3 align="center">
-    👋 New to Flipper Zero? Got questions?<br>
-    Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+    👋 New to Flipper Zero? Add me on Discord<br>
+    Check my discord <a href="https://discord.gg/ksfder9R">HERE</a>❗
     </h3>
   </td>
   <td>

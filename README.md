@@ -8,12 +8,6 @@
 
 <h3 align="center">
   Multiple resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
-  <a href="#">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
-    <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
-    <img src="https://img.shields.io/badge/Approved%20by-Lurat-brightgreen" alt="Approved by Lurat" height=24 title="Lurat is the name of my Flipper">
-    <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
-  </a>
 </h3>
 
 <table align="center"><tr>

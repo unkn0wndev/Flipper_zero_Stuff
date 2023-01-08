@@ -8,8 +8,9 @@
 
 <h3 align="center">
   Multiple resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
-  ❗NOTE❗
-  This is a re-done version of Awesome Flipper Library
+  ❗NOTE❗ <br>
+  This is a re-done version of Awesome Flipper Library <br>
+  For Educational use only <br> <br>
 </h3>
 
 <table align="center"><tr>
